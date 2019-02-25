@@ -1,0 +1,35 @@
+h1{
+	font-size: 72px;
+	font-family: Arial;
+	color: #FF4500;
+	text-align: center;
+}
+h2{
+	font-size: 26px;
+	color: #FF4500;
+}
+body{
+	background-color: grey;
+}
+P{
+	font-size: 24px;
+	color: white;
+	font-family: Times;
+	text-align: center;
+}
+ul{
+	font-size: 24px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.no-item{
+	list-style-type: none;
+}
+#big-char{
+	font-size: 2.5em;
+}
